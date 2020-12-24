@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.Img {
+  width: 100%;
+}
+.abs {
+  position: absolute;
+
+  color: black;
+}
+input {
+  margin-top: 20px;
+  width: 90%;
+  font-size: 25px;
+}
